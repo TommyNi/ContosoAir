@@ -1,5 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/roadroid/niittula/_apis/build/status%2FTommyNi.ContosoAir?branchName=master)](https://dev.azure.com/roadroid/niittula/_build/latest?definitionId=36&branchName=master)
 
 # Microsoft.Github CI Demo
 
